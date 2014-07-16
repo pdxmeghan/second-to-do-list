@@ -1,0 +1,15 @@
+#finalList {
+  color: #0066ff;
+  cursor: pointer;
+
+}
+
+#finalList li:hover {
+  text-decoration: line-through;
+}
+
+.selected {
+  text-decoration: line-through;
+  color: #ff0000;
+}
+
